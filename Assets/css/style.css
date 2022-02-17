@@ -1,0 +1,66 @@
+/*
+Theme Name: Reynaldo Tribute
+Author Name: Randolfh
+Author Url: https://github.com/Ran05
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Segoe', 'Roboto';
+    color: #333;
+    line-height: 1.6;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0;
+}
+span{
+    font-size: 20px;
+}
+
+.header{
+    margin-top: 25px;
+    background-color: #EEEEEE ;
+}
+
+.header-main{
+    padding: 50px;
+}
+
+.name-reynaldo{
+    text-align: center;
+    font-size: 50px;
+}
+
+.img-container{
+    padding: 10px;
+    margin: 20px;
+    background-color: #fff;
+   
+}
+
+figcaption{
+    text-align: center;
+    font-family: 'roboto';
+    font-weight: 800;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+    height: 400px;
+    width: auto;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#tribute-info{
+    text-align: center;
+}
